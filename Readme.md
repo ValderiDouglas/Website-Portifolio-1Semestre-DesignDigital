@@ -1,7 +1,5 @@
 <div>
-    <h1 align="center"> Design Digital</h1>
-    <h3>Valderi Douglas Camargo<h3>
-    <h3> 1°Desenvolvimento Software Multiplataforma <h3>
+    <h1 align="center"> Valderi Douglas 1°Desenvolvimento Software Multiplataforma </h1>
      <ul>
        <Li>Wireframe.pdf➡️Doc  </Li>
        <Li> index.html➡️Templates </Li>
