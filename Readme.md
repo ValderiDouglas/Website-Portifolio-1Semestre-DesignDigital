@@ -6,4 +6,8 @@
        <Li> index.html➡️Templates </Li>
        <Li> style.css➡️Static</Li>
      </ul>
+     <ul>
+       Ativando Venv
+        venv\Scripts\activate
+     </ul>
 </div>
