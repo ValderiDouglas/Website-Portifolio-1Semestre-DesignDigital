@@ -44,13 +44,14 @@ main {
   display: flex;
   justify-content: center;
   align-items: center;
+  filter: saturate(1.5);
 }
 .minhafoto1 {
   padding: 20px;
   border-radius: 50%;
   max-width: 29vw;
   height: auto;
-  filter: grayscale(0.95);
+  filter: saturate(1.5);
 }
 
 .minhafot1 {
