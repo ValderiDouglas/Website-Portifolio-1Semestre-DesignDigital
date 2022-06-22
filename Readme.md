@@ -7,7 +7,8 @@
        <Li> style.css➡️Static</Li>
      </ul>
      <ul>
-       <h2> Ativando Venv </h2>
-        venv\Scripts\activate
+       <h2> Ativando Programa </h2>
+        pip install -r requirements.txt
+        flask run
      </ul>
 </div>
