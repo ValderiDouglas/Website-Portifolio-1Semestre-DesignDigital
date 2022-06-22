@@ -8,7 +8,7 @@
      </ul>
      <ul>
        <h2> Ativando Programa </h2>
-        pip install -r requirements.txt
-        flask run
+        <Li>pip install -r requirements.txt</Li>
+        <Li>flask run</Li>
      </ul>
 </div>
