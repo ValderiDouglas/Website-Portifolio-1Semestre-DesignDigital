@@ -7,7 +7,7 @@
        <Li> style.css➡️Static</Li>
      </ul>
      <ul>
-       Ativando Venv
+       <h2> Ativando Venv </h2>
         venv\Scripts\activate
      </ul>
 </div>
